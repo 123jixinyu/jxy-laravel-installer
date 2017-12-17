@@ -1,15 +1,11 @@
 {
-    "name": "rachidlaasri/laravel-installer",
+    "name": "123jixinyu/jxy-laravel-installer",
     "description": "Laravel web installer",
     "license": "MIT",
     "authors": [
         {
-            "name": "Rachid Laasri",
-            "email": "rashidlaasri@gmail.com"
-        },
-        {
-            "name": "Jeremy Kenedy",
-            "email": "jeremykenedy@gmail.com"
+            "name": "123jixinyu",
+            "email": "848280118@qq.com"
         }
     ],
     "require": {
